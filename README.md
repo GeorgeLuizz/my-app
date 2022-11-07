@@ -1,1 +1,1 @@
-# The famous TikTakToe
+# The famous TicTacToe
